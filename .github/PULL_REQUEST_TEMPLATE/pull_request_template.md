@@ -21,6 +21,8 @@ Note: Please delete options that are not relevant.
 ### Implementation details
 (only for `New layer/algorithm`)
 > * List all the packages and their versions used.
+> * Include test results such as:  
+>   * Implementation time for 1 instance of data.
 
 ## Tests
 
