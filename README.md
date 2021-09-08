@@ -33,5 +33,7 @@ NOTE: For detailed instructions refer to [CONTRIBUTING.md](CONTRIBUTING.md)
 
 | <a href="https://github.com/mayureshagashe2105"><img src="https://avatars.githubusercontent.com/u/75118658?v=4" width=150px height=150px /></a>| <a href="https://github.com/Vishesht27"><img src="https://avatars.githubusercontent.com/u/72491817?v=4" width=150px height=150px /></a>|
 | :---: | :---: |
-| **[Mayuresh Agashe](www.linkedin.com/in/mayureshagashe2105/)**| **[Vishesh Tripathi](https://www.linkedin.com/in/vishesh-tripathi/)**| 
-| <a href="www.linkedin.com/in/mayureshagashe2105/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>| <a href="https://www.linkedin.com/in/vishesh-tripathi/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>|
+| **[Mayuresh Agashe](https://github.com/mayureshagashe2105)**| **[Vishesh Tripathi](https://github.com/Vishesht27)**| 
+| <a href="https://www.linkedin.com/in/mayureshagashe2105/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>| <a href="https://www.linkedin.com/in/vishesh-tripathi/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>|
+
+
