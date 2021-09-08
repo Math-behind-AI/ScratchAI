@@ -1,14 +1,24 @@
-# ScratchAI [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+# Scratch-AI [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ---
 
-The ScratchAI is a repository with different algorithms of Machine Learning & Deep Learning implemented from scratch. The main motto behind this repository is to grasp the mathematical aspect and intuition of different AI algorithms.
+✨ **The Scratch-AI** is a repository with different algorithms of Machine Learning & Deep Learning implemented from scratch. 
+
+🗄 The main motto behind this repository is to grasp the mathematical aspect and intuition of different AI algorithms.
+
+🤖 AI is being used everywhere now a days, but people don't know about implementation of complex mathematical functions beind the scene
+
+
 
 ## Contributions  
 
 ---
 
-Contributions are welcome!!! Contributors can contribute to the project in the following ways:  
+We welcome all kinds of contributions from the open-source community, individuals and partners. We owe our success to
+your active involvement.
+
+Contributors can contribute to the project in the following ways:  
+
 1. Contributing by fixing existing issues.
 2. Submitting a better layer design or algorithm than the existing one.
 3. Submitting new layer design or algorithm.
