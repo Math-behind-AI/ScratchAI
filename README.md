@@ -6,7 +6,7 @@
 
 🗄 The main motto behind this repository is to grasp the mathematical aspect and intuition of different AI algorithms.
 
-🤖 AI is being used everywhere nowadays, but people don't know about implementation of complex mathematical functions beind the scene
+🤖 AI is being used everywhere nowadays, but people don't know about implementation of complex mathematical functions behind the scene.
 
 
 
