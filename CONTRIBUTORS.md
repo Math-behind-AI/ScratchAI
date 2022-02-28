@@ -8,7 +8,7 @@
 * [Vishesh Tripathi](https://github.com/Vishesht27)
 * [Mayuresh Aagashe](https://github.com/mayureshagashe2105)
 * [Rithuraj Nambiar](https://github.com/rithurajnambiar17)
-* [Heamnth Sai](https://github.com/HemanthSai7)
+* [Hemanth Sai](https://github.com/HemanthSai7)
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=Math-behind-AI/ScratchAI)
 
