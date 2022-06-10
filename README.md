@@ -26,7 +26,7 @@ Contributors can contribute to the project in the following ways:
 NOTE: For detailed instructions refer to [CONTRIBUTING.md](CONTRIBUTING.md)
 
 
-## Collaborators
+## Maintainers
 
 ---
 
