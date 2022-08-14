@@ -8,10 +8,16 @@
 
 🤖 AI is being used everywhere nowadays, but people don't know about implementation of complex mathematical functions behind the scene.
 
-
+## Table of Contents
+- [Scratch AI](#Scratch-AI)
+  * [Table of Contents](#table-of-contents)
+  * [Traditional Machine Learning](./traditional_ML_algorithms)
+    + [Simple Linear Regression](./traditional_ML_algorithms/SimpleLinearRegression)
+    + [Logistic Regression](./traditional_ML_algorithms/LogisticRegression)
+  * [Deep Learning](./DL_algorithms)
+  * [Contact](##Maintainers)
 
 ## Contributions  
-
 ---
 
 We welcome all kinds of contributions from the open-source community, individuals and partners. We owe our success to
