@@ -15,7 +15,7 @@
     + [Simple Linear Regression](./traditional_ML_algorithms/SimpleLinearRegression)
     + [Logistic Regression](./traditional_ML_algorithms/LogisticRegression)
   * [Deep Learning](./DL_algorithms)
-  * [Contact](##Maintainers)
+  * [Contact](#maintainers)
 
 ## Contributions  
 ---
