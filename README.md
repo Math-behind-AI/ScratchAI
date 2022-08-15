@@ -9,7 +9,7 @@
 🤖 AI is being used everywhere nowadays, but people don't know about implementation of complex mathematical functions behind the scene.
 
 ## Table of Contents
-- [Scratch AI](#Scratch-AI)
+- [Scratch AI](#scratch-ai-)
   * [Table of Contents](#table-of-contents)
   * [Traditional Machine Learning](./traditional_ML_algorithms)
     + [Simple Linear Regression](./traditional_ML_algorithms/SimpleLinearRegression)
