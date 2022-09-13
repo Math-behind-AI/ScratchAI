@@ -8,14 +8,6 @@
 
 🤖 AI is being used everywhere nowadays, but people don't know about implementation of complex mathematical functions behind the scene.
 
-## Table of Contents
-- [Scratch AI](#Scratch-AI)
-  * [Table of Contents](#table-of-contents)
-  * [Traditional Machine Learning](./traditional_ML_algorithms)
-    + [Simple Linear Regression](./traditional_ML_algorithms/SimpleLinearRegression)
-    + [Logistic Regression](./traditional_ML_algorithms/LogisticRegression)
-  * [Deep Learning](./DL_algorithms)
-  * [Contact](##Maintainers)
 
 ## Contributions  
 ---
@@ -41,5 +33,6 @@ NOTE: For detailed instructions refer to [CONTRIBUTING.md](CONTRIBUTING.md)
 | :---: | :---: | :---: |
 | **[Mayuresh Agashe](https://github.com/mayureshagashe2105)**| **[Vishesh Tripathi](https://github.com/Vishesht27)**| **[Hemanth Sai](https://github.com/HemanthSai7)**|
 | <a href="https://www.linkedin.com/in/mayureshagashe2105/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>| <a href="https://www.linkedin.com/in/vishesh-tripathi/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>| <a href="https://www.linkedin.com/in/hemanthsai3187/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>|
+
 
 
