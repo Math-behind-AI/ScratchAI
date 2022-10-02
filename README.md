@@ -1,6 +1,9 @@
+![image](https://user-images.githubusercontent.com/75118658/193441891-f4e14df7-2213-4ac1-b9a7-c9811e6cf54a.png)
+
 # Scratch-AI [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ---
+
 
 ✨ **The Scratch-AI** is a repository with different algorithms of Machine Learning & Deep Learning implemented from scratch. 
 
