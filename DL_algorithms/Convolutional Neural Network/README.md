@@ -1,4 +1,4 @@
-# Implementation of Convolutional Neural Network from scratch
+# Implementation of Convolutional Neural Network from Scratch
 
 ### Libraries used:
 `Numpy` <br>
