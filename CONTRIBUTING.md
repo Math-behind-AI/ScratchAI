@@ -27,7 +27,7 @@ Here are a few things you can do that will increase the likelihood of your pull 
   * Fork the github project.
   * Clone the git repository 
     ``` (bash)
-    $ git clone git@github.com:YOUR-GITHUB-USERNAME/Parsr.git
+    $ git clone https://github.com/YOUR-GITHUB-USERNAME/ScratchAI.git
     ```
   * When your implementation is ready, [submit a pull request][pr]. Add some comments or screen shots to help us.
   * Wait for us to review your pull request. If something is wrong or if we want you to make some changes before the merge, we'll let you know through commit comments or pull request comments.
