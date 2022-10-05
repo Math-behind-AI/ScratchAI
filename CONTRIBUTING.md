@@ -22,3 +22,12 @@ Here are a few things you can do that will increase the likelihood of your pull 
   * If there are changes in multiple directories you would like to make that are not dependent upon each other, please submit them as separate pull requests.
 * The pull request should have a useful title and description.
   * Explain the rationale for your change in the pull request using a pull request template.
+  
+* Here's a quick guid to create a pull request:
+  * Fork the github project.
+  * Clone the git repository 
+    ``` (bash)
+    $ git clone https://github.com/YOUR-GITHUB-USERNAME/ScratchAI.git
+    ```
+  * When your implementation is ready, [submit a pull request][pr]. Add some comments or screen shots to help us.
+  * Wait for us to review your pull request. If something is wrong or if we want you to make some changes before the merge, we'll let you know through commit comments or pull request comments.
