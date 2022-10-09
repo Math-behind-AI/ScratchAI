@@ -13,19 +13,15 @@
 
 ## Table of Contents
 - [ScratchAI](#scratch-ai-)
-    * [About](#scratch-ai-)
-    * [Table of Contents](#table-of-contents)
     * [Machine Learning Algorithms](/traditional_ML_algorithms/)
       * [Linear Regression](./traditional_ML_algorithms/SimpleLinearRegression)
       * [Logistic Regression](./traditional_ML_algorithms/LogisticRegression)
       * [KNN](./traditional_ML_algorithms/KNN)
       * [K-Means](./traditional_ML_algorithms/K-Means)
-
     * [Deep Learning Algorithms](/deep_learning_algorithms/)
       * [Neural Network](./deep_learning_algorithms/NeuralNetwork)
       * [Convolutional Neural Network](./DL_algorithms/Convolutional%20Neural%20Network/)
       * [Multi Layer Perceptron](./DL_algorithms/MultiLayerPerceptron/)
-      
     * [Contributions](#contributions)
     * [Maintainers](#maintainers)
 
