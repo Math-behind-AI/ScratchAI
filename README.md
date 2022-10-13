@@ -22,6 +22,7 @@
       * [Neural Network](./deep_learning_algorithms/NeuralNetwork)
       * [Convolutional Neural Network](./DL_algorithms/Convolutional%20Neural%20Network/)
       * [Multi Layer Perceptron](./DL_algorithms/MultiLayerPerceptron/)
+      * [Word2Vec](./DL_algorithms/word2vec/)
     * [Contributions](#contributions)
     * [Maintainers](#maintainers)
 
