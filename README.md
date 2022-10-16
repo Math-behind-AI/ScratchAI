@@ -14,6 +14,7 @@
 ## Table of Contents
 - [ScratchAI](#scratch-ai-)
     * [Machine Learning Algorithms](/traditional_ML_algorithms/)
+      * [Decision Trees](/traditional_ML_algorithms/Decision%20Trees/)
       * [Linear Regression](./traditional_ML_algorithms/SimpleLinearRegression)
       * [Logistic Regression](./traditional_ML_algorithms/LogisticRegression)
       * [KNN](./traditional_ML_algorithms/KNN)
