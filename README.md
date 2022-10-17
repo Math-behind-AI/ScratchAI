@@ -21,6 +21,7 @@
       * [K-Means](./traditional_ML_algorithms/K-Means)
       * [SVM](/traditional_ML_algorithms/svm%20algotrithm/)
     * [Deep Learning Algorithms](/deep_learning_algorithms/)
+      * [Adam Optimizer](/DL_algorithms/Adam%20Optimizer/)
       * [Convolutional Neural Network](./DL_algorithms/Convolutional%20Neural%20Network/)
       * [Multi Layer Perceptron](./DL_algorithms/MultiLayerPerceptron/)
       * [Word2Vec](./DL_algorithms/word2vec/)
