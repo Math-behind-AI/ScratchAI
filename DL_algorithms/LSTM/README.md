@@ -38,6 +38,9 @@ Note: Text classification is an example of supervised machine learning since we 
 * *scikit-learn* - for data analysis
 * *nltk* - text preprocessing
 
+**Dataset**
+* https://www.kaggle.com/code/ankurzing/sentiment-analysis-of-commodity-news/data
+
 ### Evaluation
 * Sentiment analysis model obtained 94% accuracy on the training set and 90% accuracy on the test set.
 ![download (2)](https://user-images.githubusercontent.com/86421205/196364995-2dc1d9ed-911d-4cb5-93a4-2b8cede32e1d.png)
