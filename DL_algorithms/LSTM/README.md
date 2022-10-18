@@ -18,8 +18,13 @@ Note: Text classification is an example of supervised machine learning since we 
 * While computing an embedding matrix, the meaning of every word and its calculations (called hidden states) are stored.
 * RNNs are not capable of storing long term dependencies due to vanishing gradient.
 * LSTMs have a gated network which can handle the problem of vanishing gradient. The LSTM consists of three parts : 
-1. *Forget Gate*
-2. *Input Gate*
-3. *Output Gate*
+- 1. *Forget Gate*
+- 2. *Input Gate*
+- 3. *Output Gate*
 
-#### :pencil2: Here we have built a ConvNet to identify Sign language digits from scratch along with in-depth implementation of each layer in neural network
+![Screenshot](https://user-images.githubusercontent.com/86421205/196361910-0b9dad40-93be-4b48-822d-a3964c869eff.jpg)
+
+* Bidirectional LSTM consists of two models. The first model learns the sequence of input provided and the second moel learns the reverse of that sequence.
+* This structure allows the networks to have both backward and forward information about the sequence at every time step.
+
+![1_B5NHtY8_Y4we0DE4Y-acBA](https://user-images.githubusercontent.com/86421205/196361977-9f476005-6c92-4960-9c73-d02ba5adfaad.png)
