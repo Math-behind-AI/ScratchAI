@@ -10,7 +10,7 @@ Note: Text classification is an example of supervised machine learning since we 
 * Sentiment analysis is contextual mining of text which identifies and extracts subjective information in source material, and helping a business to understand the social sentiment of their brand, product or service while monitoring online conversations.
 * By using sentiment analysis, you gauge how customers feel about different areas of your business without having to read thousands of customer comments at once. If you have thousands of feedback per month, it is impossible for one person to read all of these responses
 
-![main](https://user-images.githubusercontent.com/86421205/196357653-9d4b533b-6322-430e-bb9b-3657e834e49a.png)
+![main1](https://user-images.githubusercontent.com/86421205/196366043-b98151a9-b102-4784-a90a-ca2b40cd101b.jpg)
 
 
 ## :pencil2: Bidirectional LSTM
