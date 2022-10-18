@@ -40,6 +40,7 @@ Note: Text classification is an example of supervised machine learning since we 
 
 ### Evaluation
 * Sentiment analysis model obtained 94% accuracy on the training set and 90% accuracy on the test set.
+![download (2)](https://user-images.githubusercontent.com/86421205/196364995-2dc1d9ed-911d-4cb5-93a4-2b8cede32e1d.png)
 
 # Prajwal Uday :india:
 
