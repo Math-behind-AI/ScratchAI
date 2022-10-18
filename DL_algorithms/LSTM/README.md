@@ -18,9 +18,9 @@ Note: Text classification is an example of supervised machine learning since we 
 * While computing an embedding matrix, the meaning of every word and its calculations (called hidden states) are stored.
 * RNNs are not capable of storing long term dependencies due to vanishing gradient.
 * LSTMs have a gated network which can handle the problem of vanishing gradient. The LSTM consists of three parts : 
- i. *Forget Gate*
- ii. *Input Gate*
- iii. *Output Gate*
+ 1. *Forget Gate*
+ 2. *Input Gate*
+ 3. *Output Gate*
 
 ![Screenshot](https://user-images.githubusercontent.com/86421205/196361910-0b9dad40-93be-4b48-822d-a3964c869eff.jpg)
 
