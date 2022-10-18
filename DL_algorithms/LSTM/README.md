@@ -1,10 +1,6 @@
-# Implementation of Convolutional Neural Network from Scratch
+# Sentiment Ananlysis of Commodity News using Bidirectional LSTM
 
-### Libraries used:
-`Numpy` <br>
-`Matplotlib` <br>
-`Pandas` <br>
-`Tensorflow` <br>
+## :dart: GOAL
 
 #### :pencil2: A CNN, or Convolutional Neural Network, is a type of artificial neural network that is commonly used for image/object detection and classification. Deep Learning detects things in images by employing a CNN.
 
