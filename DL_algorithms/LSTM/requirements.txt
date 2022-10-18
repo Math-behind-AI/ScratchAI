@@ -1,0 +1,7 @@
+numpy == 1.22.4
+pandas == 1.4.2
+seaborn == 0.11.2
+matplotlib == 3.5.1
+sklearn==0.20
+tensorflow==2.2.0
+nltk==3.2.5
