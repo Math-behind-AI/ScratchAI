@@ -1,4 +1,4 @@
-# Sentiment Analysis of Commodity News using Bidirectional LSTM
+# Sentiment Analysis of Commodity News (Gold) using Bidirectional LSTM
 
 ## :dart: GOAL
 
