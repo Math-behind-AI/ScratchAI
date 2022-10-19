@@ -19,6 +19,7 @@
       * [Logistic Regression](./traditional_ML_algorithms/LogisticRegression)
       * [KNN](./traditional_ML_algorithms/KNN)
       * [K-Means](./traditional_ML_algorithms/K-Means)
+      * [Polynomial Regression](/traditional_ML_algorithms/Polynomial%20Regression/)
       * [SVM](/traditional_ML_algorithms/svm%20algotrithm/)
     * [Deep Learning Algorithms](/deep_learning_algorithms/)
       * [Adam Optimizer](/DL_algorithms/Adam%20Optimizer/)
