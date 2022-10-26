@@ -2,10 +2,7 @@
 
 ### Packages used:
 
-`Numpy'
-`Pandas`
-'Sklearn'
-'Matplotlib'
+`Numpy` `Pandas` `Sklearn` `Matplotlib`
 
 ### Brief explanation:
 
