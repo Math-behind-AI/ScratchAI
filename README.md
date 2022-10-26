@@ -19,6 +19,7 @@
       * [Logistic Regression](./traditional_ML_algorithms/LogisticRegression)
       * [KNN](./traditional_ML_algorithms/KNN)
       * [K-Means](./traditional_ML_algorithms/K-Means)
+      * [Principal Component Analysis](traditional_ML_algorithms/Principal%20Component%20Analysis)
       * [SVM](/traditional_ML_algorithms/svm%20algotrithm/)
     * [Deep Learning Algorithms](/deep_learning_algorithms/)
       * [Adam Optimizer](/DL_algorithms/Adam%20Optimizer/)
